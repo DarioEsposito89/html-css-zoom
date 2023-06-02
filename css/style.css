@@ -10,3 +10,24 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+nav {
+    display: flex;
+    justify-content: right;
+    background-color: #000000;
+
+}
+
+.nav-container {
+    display: flex;
+    gap: 0.5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-right: .2rem;
+    font-size: 12px;
+}
+
+.nav-container a {
+    color: white;
+    text-decoration: none;
+}
