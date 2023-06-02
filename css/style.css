@@ -44,3 +44,9 @@ nav {
     border-radius: 5px;
     padding: 5px;
 }
+
+main {
+    flex-grow: 1;
+    overflow: auto;
+    background-color: #000000;
+}
