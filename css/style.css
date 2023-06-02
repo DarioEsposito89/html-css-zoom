@@ -104,3 +104,12 @@ footer .btn-left a{
 .btn-left .freccia i {
     font-size: 10px;
 }
+
+footer .btn-central a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn-central .freccia i {
+    font-size: 10px;
+}
