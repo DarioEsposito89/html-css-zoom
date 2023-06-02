@@ -31,3 +31,16 @@ nav {
     color: white;
     text-decoration: none;
 }
+
+.view-mode {
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+.grid-icon {
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px;
+}
