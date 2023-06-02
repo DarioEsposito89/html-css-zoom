@@ -113,3 +113,16 @@ footer .btn-central a{
 .btn-central .freccia i {
     font-size: 10px;
 }
+
+footer .end-button, a {
+    color: red;
+    text-decoration: none;
+}
+
+.end-button {
+    padding: 20px;
+    background-color: #4a4a4a;
+    font-size: 11px;
+    margin-top: -4px;
+    margin-bottom: -4px;
+}
