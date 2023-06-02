@@ -72,3 +72,35 @@ main {
 .video-card {
     position: relative;
 }
+
+.footer-container {
+    display: flex;
+    background-color: #222222;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.btn-left, .btn-central {
+    display: flex;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 11px;
+    gap: 1rem;
+}
+
+footer .btn-left a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-container i {
+    font-size: 25px;
+    padding-bottom: .2rem;
+}
+
+.btn-left .freccia i {
+    font-size: 10px;
+}
